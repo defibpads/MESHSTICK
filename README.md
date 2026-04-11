@@ -2,7 +2,7 @@
 
 Schematic 
 
-## Note: D1 is available for Rxen should you need it
+### Note: D1 is available for Rxen should you need it
 
 <img width="1169" height="827" alt="Schematic_MESHSTICK-V4_2026-04-11" src="https://github.com/user-attachments/assets/0270f04e-4aa9-4a69-b2f1-c44cb011336c" />
 
